@@ -1,14 +1,26 @@
-layout_spectrum: 0.2021102
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+typography_spectrum: 0.3882734
 color:
   saturation: 0.3854297
   brandStrength: 0.6106678
   lightness: 0.2329749
-  rhythmicContrast: 0.01131351
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
-typography_spectrum: 0.3882734
+    - '#151516'
+    - '#F0D9BB'
+    - '#B2BFB5'
+    - '#4A5B65'
+    - '#778791'
+  rhythmicContrast: 0.01131351
+layout_spectrum: 0.2021102
 name: Geislerprojects
