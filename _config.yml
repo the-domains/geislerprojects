@@ -1,3 +1,7 @@
+name: Geislerprojects
+favicon: null
+layout_spectrum: 0.2021102
+typography_spectrum: 0.3882734
 collections:
   - index:
       path: /
@@ -10,17 +14,28 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-typography_spectrum: 0.3882734
+title: GEISLER PROJECTS
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.3854297
-  brandStrength: 0.6106678
-  lightness: 0.2329749
   brandColors:
     - '#151516'
     - '#F0D9BB'
     - '#B2BFB5'
     - '#4A5B65'
     - '#778791'
+  brandStrength: 0.6106678
+  lightness: 0.2329749
+  saturation: 0.3854297
   rhythmicContrast: 0.01131351
-layout_spectrum: 0.2021102
-name: Geislerprojects
+purpose: []
