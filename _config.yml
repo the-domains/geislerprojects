@@ -1,0 +1,14 @@
+layout_spectrum: 0.2021102
+color:
+  saturation: 0.3854297
+  brandStrength: 0.6106678
+  lightness: 0.2329749
+  rhythmicContrast: 0.01131351
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+typography_spectrum: 0.3882734
+name: Geislerprojects
