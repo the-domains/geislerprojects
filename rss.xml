@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[GEISLER PROJECTS]]></title>
         <description><![CDATA[GEISLER PROJECTS]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/geislerprojects/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 10 Feb 2016 20:07:04 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 10 Feb 2016 20:09:47 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/geislerprojects/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/770f76ac-674c-44f7-89a2-386000dd2d2e.jpg">]]></description>
+            <link>https://thegrid.ai/geislerprojects/d2ffe97e-d746-4c2a-a928-249877fe2690/index.html</link>
+            <guid isPermaLink="false">d2ffe97e-d746-4c2a-a928-249877fe2690</guid>
+            <pubDate>Wed, 10 Feb 2016 20:09:26 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2da0f1e2-0c28-4fd6-8ce8-a404f3aef204.png">]]></description>
-            <link>undefinedb59482e4-3459-446c-8b0b-10310ce933d0/index.html</link>
+            <link>https://thegrid.ai/geislerprojects/b59482e4-3459-446c-8b0b-10310ce933d0/index.html</link>
             <guid isPermaLink="false">b59482e4-3459-446c-8b0b-10310ce933d0</guid>
             <pubDate>Wed, 10 Feb 2016 20:06:57 GMT</pubDate>
         </item>
