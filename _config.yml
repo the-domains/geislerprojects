@@ -31,11 +31,11 @@ analytics:
   twitter: null
   google: null
   facebook: null
-name: Geislerprojects
 favicon: null
+name: Geislerprojects
 opengraph:
   image: null
   type: null
   appId: null
 typography_spectrum: 0.3882734
-layout_spectrum: 0.8261649
+layout_spectrum: 1
